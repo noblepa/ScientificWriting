@@ -9,8 +9,8 @@ This repository holds two documents that support the course:
 
 | Document | Purpose | PDF |
 |---|---|---|
-| **Teacher's Handbook** | Unit-by-unit teaching plan, activities, rubrics, portfolio guidance, assessment splits and sample viva questions, mapped to the syllabus and its prescribed sources. | [`assets/TeachersHandbook.pdf`](assets/TeachersHandbook.pdf) |
-| **Sample Student Portfolio** | A worked model of the seven practical items, using gravitational waves as the common theme: bibliography database, posters, and analyses of a research article, a review paper, a poster, a thesis and a popular science article. | [`assets/SamplePortfolio.pdf`](assets/SamplePortfolio.pdf) |
+| **Teacher's Handbook** | Unit-by-unit teaching plan, activities, rubrics, portfolio guidance, assessment splits and sample viva questions, mapped to the syllabus and its prescribed sources. | [`Handbook_newSEC.pdf`]( Teachers Handbook) |
+| **Sample Student Portfolio** | A worked model of the seven practical items, using gravitational waves as the common theme: bibliography database, posters, and analyses of a research article, a review paper, a poster, a thesis and a popular science article. | [`SamplePortfolio_newSEC.pdf`](Sample Portfolio) |
 
 The Teacher's Handbook is for teachers. The Sample Portfolio is a model for students and teachers; it is meant to be studied, not copied.
 
